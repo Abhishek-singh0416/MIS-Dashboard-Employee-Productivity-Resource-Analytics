@@ -1,0 +1,2 @@
+# MIS-Dashboard-Employee-Productivity-Resource-Analytics
+Developed a comprehensive MIS Dashboard in Zoho Analytics using employee and timesheet data integrated from Zoho People.  The objective of the project was to provide management with a centralized platform for:  Employee productivity monitoring Resource utilization tracking Project allocation analysis Timesheet compliance monitoring Department
